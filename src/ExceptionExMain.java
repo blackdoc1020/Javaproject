@@ -18,7 +18,7 @@ public class ExceptionExMain {
 			int dan = Integer.parseInt(danStr);//문자열을 숫자로 형변화3
 			
 			
-			for(int i=2; i<10; i++) {
+			for(int i=1; i<10; i++) {
 				int result = dan* i;
 				System.out.println(dan+ "*"+i+"="+result );
 			}
